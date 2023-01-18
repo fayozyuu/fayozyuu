@@ -2,13 +2,13 @@
     <h3 align="center">A passionate fullstack developer from Uzbekistan</h3>
      <img width="100%" height="250" src="https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg" alt="img">   
      
--  <img align="right" width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F659144095440492410%2F&psig=AOvVaw3FlSI3nV0H-x1PufP6DAWj&ust=1674140798303000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMC9jc-y0fwCFQAAAAAdAAAAABA1" alt="coding">
+  <img align="right" width="400"  src="https://25.media.tumblr.com/f1fea510d6f3495c0a33e5f45c978ff9/tumblr_muf3e3Qhe51ru39xmo1_500.gif" alt="coding">
 
 -  🌱 I’m currently learning Bootstrap and Js
 
 - 💬 Ask me about Html, css and sass
 
-- 📫 How to reach me  fayozzyunuov@gmail.com
+- 📫 How to reach me fayozzyunuov@gmail.com
 
 - ⚡️ Amazing fact I would say, I am invincible😎
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamhusniddin&label=Profile%20views&color=0e75b6&style=flat" alt="iamhusniddin" /> </p>
@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/iam_husniddin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fayoz_yu" height="30" width="40" /></a>
+<a href="https://instagram.com/fayoz_yu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_husniddin7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
